@@ -3,3 +3,6 @@ def celsius_to_fahrenheit(c):
 
 def km_to_miles(km):
     return km * 0.621371
+
+def kg_to_pounds(kg):
+    return kg * 2.20462
