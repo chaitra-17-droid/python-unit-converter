@@ -8,6 +8,7 @@ A small Python project that converts units and is tested automatically using Git
 ## Features
 - Celsius to Fahrenheit
 - Kilometres to miles
+- Kilograms to poundsgit status
 
 ## Run the tests
 ```bash
